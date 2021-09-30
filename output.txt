@@ -1,0 +1,5 @@
+Acesta este un fisier
+din care citim date
+si pe care
+le afisam
+pe consola!
